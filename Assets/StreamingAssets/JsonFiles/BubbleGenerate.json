@@ -1,0 +1,11 @@
+{"BubbleGenerateList":
+[
+	{"rowIndex":0,"bubbles":"4,4,3,3,4,4,1,2,2"},
+	{"rowIndex":1,"bubbles":"1,4,2,2,5,5,1,5"},
+	{"rowIndex":2,"bubbles":"5,5,2,2,4,4,3,3,3"},
+	{"rowIndex":3,"bubbles":"1,2,3,4,5,1,2,3"},
+	{"rowIndex":4,"bubbles":"2,2,4,4,5,5,1,1,1"},
+	{"rowIndex":5,"bubbles":"1,2,3,4,5,1,2,3"},
+	{"rowIndex":6,"bubbles":"0,0,3,3,4,4,1,0,0"}
+]
+}
